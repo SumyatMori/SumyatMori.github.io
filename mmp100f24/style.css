@@ -10,11 +10,10 @@ body{
  font-size: 4.5em;
 }
 
-p1{
+p{
   text-align:center;
 }
-  font-family: "Lucida Console", "Courier New", monospace;
-}
+
 
 img{
   object-fit: cover;
